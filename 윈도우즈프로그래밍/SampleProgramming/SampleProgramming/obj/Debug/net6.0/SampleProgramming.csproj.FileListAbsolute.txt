@@ -1,0 +1,15 @@
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior\windowsprogramming\SampleProgramming\SampleProgramming\bin\Debug\net6.0\SampleProgramming.exe
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior\windowsprogramming\SampleProgramming\SampleProgramming\bin\Debug\net6.0\SampleProgramming.deps.json
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior\windowsprogramming\SampleProgramming\SampleProgramming\bin\Debug\net6.0\SampleProgramming.runtimeconfig.json
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior\windowsprogramming\SampleProgramming\SampleProgramming\bin\Debug\net6.0\SampleProgramming.dll
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior\windowsprogramming\SampleProgramming\SampleProgramming\bin\Debug\net6.0\SampleProgramming.pdb
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior\windowsprogramming\SampleProgramming\SampleProgramming\obj\Debug\net6.0\SampleProgramming.csproj.AssemblyReference.cache
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior\windowsprogramming\SampleProgramming\SampleProgramming\obj\Debug\net6.0\SampleProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior\windowsprogramming\SampleProgramming\SampleProgramming\obj\Debug\net6.0\SampleProgramming.AssemblyInfoInputs.cache
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior\windowsprogramming\SampleProgramming\SampleProgramming\obj\Debug\net6.0\SampleProgramming.AssemblyInfo.cs
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior\windowsprogramming\SampleProgramming\SampleProgramming\obj\Debug\net6.0\SampleProgramming.csproj.CoreCompileInputs.cache
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior\windowsprogramming\SampleProgramming\SampleProgramming\obj\Debug\net6.0\SampleProgramming.dll
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior\windowsprogramming\SampleProgramming\SampleProgramming\obj\Debug\net6.0\refint\SampleProgramming.dll
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior\windowsprogramming\SampleProgramming\SampleProgramming\obj\Debug\net6.0\SampleProgramming.pdb
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior\windowsprogramming\SampleProgramming\SampleProgramming\obj\Debug\net6.0\SampleProgramming.genruntimeconfig.cache
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior\windowsprogramming\SampleProgramming\SampleProgramming\obj\Debug\net6.0\ref\SampleProgramming.dll

@@ -1,0 +1,17 @@
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior\windowsprogramming\WinFormsApp1_1\WinFormsApp1_1\bin\Debug\net6.0-windows\WinFormsApp1_1.exe
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior\windowsprogramming\WinFormsApp1_1\WinFormsApp1_1\bin\Debug\net6.0-windows\WinFormsApp1_1.deps.json
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior\windowsprogramming\WinFormsApp1_1\WinFormsApp1_1\bin\Debug\net6.0-windows\WinFormsApp1_1.runtimeconfig.json
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior\windowsprogramming\WinFormsApp1_1\WinFormsApp1_1\bin\Debug\net6.0-windows\WinFormsApp1_1.dll
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior\windowsprogramming\WinFormsApp1_1\WinFormsApp1_1\bin\Debug\net6.0-windows\WinFormsApp1_1.pdb
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior\windowsprogramming\WinFormsApp1_1\WinFormsApp1_1\obj\Debug\net6.0-windows\WinFormsApp1_1.csproj.AssemblyReference.cache
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior\windowsprogramming\WinFormsApp1_1\WinFormsApp1_1\obj\Debug\net6.0-windows\WinFormsApp1_1.Form1.resources
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior\windowsprogramming\WinFormsApp1_1\WinFormsApp1_1\obj\Debug\net6.0-windows\WinFormsApp1_1.csproj.GenerateResource.cache
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior\windowsprogramming\WinFormsApp1_1\WinFormsApp1_1\obj\Debug\net6.0-windows\WinFormsApp1_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior\windowsprogramming\WinFormsApp1_1\WinFormsApp1_1\obj\Debug\net6.0-windows\WinFormsApp1_1.AssemblyInfoInputs.cache
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior\windowsprogramming\WinFormsApp1_1\WinFormsApp1_1\obj\Debug\net6.0-windows\WinFormsApp1_1.AssemblyInfo.cs
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior\windowsprogramming\WinFormsApp1_1\WinFormsApp1_1\obj\Debug\net6.0-windows\WinFormsApp1_1.csproj.CoreCompileInputs.cache
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior\windowsprogramming\WinFormsApp1_1\WinFormsApp1_1\obj\Debug\net6.0-windows\WinFormsApp1_1.dll
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior\windowsprogramming\WinFormsApp1_1\WinFormsApp1_1\obj\Debug\net6.0-windows\refint\WinFormsApp1_1.dll
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior\windowsprogramming\WinFormsApp1_1\WinFormsApp1_1\obj\Debug\net6.0-windows\WinFormsApp1_1.pdb
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior\windowsprogramming\WinFormsApp1_1\WinFormsApp1_1\obj\Debug\net6.0-windows\WinFormsApp1_1.genruntimeconfig.cache
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior\windowsprogramming\WinFormsApp1_1\WinFormsApp1_1\obj\Debug\net6.0-windows\ref\WinFormsApp1_1.dll
