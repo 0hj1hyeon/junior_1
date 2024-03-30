@@ -1,0 +1,15 @@
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior\windowsprogramming\4주차\4주차\bin\Debug\net6.0\4주차.exe
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior\windowsprogramming\4주차\4주차\bin\Debug\net6.0\4주차.deps.json
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior\windowsprogramming\4주차\4주차\bin\Debug\net6.0\4주차.runtimeconfig.json
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior\windowsprogramming\4주차\4주차\bin\Debug\net6.0\4주차.dll
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior\windowsprogramming\4주차\4주차\bin\Debug\net6.0\4주차.pdb
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior\windowsprogramming\4주차\4주차\obj\Debug\net6.0\4주차.csproj.AssemblyReference.cache
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior\windowsprogramming\4주차\4주차\obj\Debug\net6.0\4주차.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior\windowsprogramming\4주차\4주차\obj\Debug\net6.0\4주차.AssemblyInfoInputs.cache
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior\windowsprogramming\4주차\4주차\obj\Debug\net6.0\4주차.AssemblyInfo.cs
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior\windowsprogramming\4주차\4주차\obj\Debug\net6.0\4주차.csproj.CoreCompileInputs.cache
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior\windowsprogramming\4주차\4주차\obj\Debug\net6.0\4주차.dll
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior\windowsprogramming\4주차\4주차\obj\Debug\net6.0\refint\4주차.dll
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior\windowsprogramming\4주차\4주차\obj\Debug\net6.0\4주차.pdb
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior\windowsprogramming\4주차\4주차\obj\Debug\net6.0\4주차.genruntimeconfig.cache
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior\windowsprogramming\4주차\4주차\obj\Debug\net6.0\ref\4주차.dll
