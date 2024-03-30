@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ohj01\\OneDrive\\바탕 화면\\github\\junior\\windowsprogramming\\4주차\\4주차\\4주차.csproj": {}
+    "C:\\Users\\ohj01\\OneDrive\\바탕 화면\\github\\junior_1\\윈도우즈프로그래밍\\4주차\\4주차\\4주차.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ohj01\\OneDrive\\바탕 화면\\github\\junior\\windowsprogramming\\4주차\\4주차\\4주차.csproj": {
+    "C:\\Users\\ohj01\\OneDrive\\바탕 화면\\github\\junior_1\\윈도우즈프로그래밍\\4주차\\4주차\\4주차.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ohj01\\OneDrive\\바탕 화면\\github\\junior\\windowsprogramming\\4주차\\4주차\\4주차.csproj",
+        "projectUniqueName": "C:\\Users\\ohj01\\OneDrive\\바탕 화면\\github\\junior_1\\윈도우즈프로그래밍\\4주차\\4주차\\4주차.csproj",
         "projectName": "4주차",
-        "projectPath": "C:\\Users\\ohj01\\OneDrive\\바탕 화면\\github\\junior\\windowsprogramming\\4주차\\4주차\\4주차.csproj",
+        "projectPath": "C:\\Users\\ohj01\\OneDrive\\바탕 화면\\github\\junior_1\\윈도우즈프로그래밍\\4주차\\4주차\\4주차.csproj",
         "packagesPath": "C:\\Users\\ohj01\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ohj01\\OneDrive\\바탕 화면\\github\\junior\\windowsprogramming\\4주차\\4주차\\obj\\",
+        "outputPath": "C:\\Users\\ohj01\\OneDrive\\바탕 화면\\github\\junior_1\\윈도우즈프로그래밍\\4주차\\4주차\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ohj01\\AppData\\Roaming\\NuGet\\NuGet.Config",
