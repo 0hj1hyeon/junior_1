@@ -8,5 +8,11 @@
     <fullyQualifiedTypeName name="ch04_pjt_01.ems.member.DBConnectionInfo"/>
     <fullyQualifiedTypeName name="java.util.Set"/>
     <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="ch05_pjt_01.contact.dao.ContactDao"/>
     <fullyQualifiedTypeName name="org.springframework.context.support.GenericXmlApplicationContext"/>
+    <fullyQualifiedTypeName name="ch05_pjt_01.contact.utils.InitSampleData"/>
+    <fullyQualifiedTypeName name="ch05_pjt_01.contact.service.ContactRegisterService"/>
+    <fullyQualifiedTypeName name="ch05_pjt_01.contact.ContactSet"/>
+    <fullyQualifiedTypeName name="ch05_pjt_01.contact.service.ContactSearchService"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
 </qualifiedTypeNameHistroy>

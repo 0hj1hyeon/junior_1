@@ -1,0 +1,15 @@
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior_1\윈도우즈프로그래밍\5주차\5주차\bin\Debug\net6.0\5주차.exe
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior_1\윈도우즈프로그래밍\5주차\5주차\bin\Debug\net6.0\5주차.deps.json
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior_1\윈도우즈프로그래밍\5주차\5주차\bin\Debug\net6.0\5주차.runtimeconfig.json
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior_1\윈도우즈프로그래밍\5주차\5주차\bin\Debug\net6.0\5주차.dll
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior_1\윈도우즈프로그래밍\5주차\5주차\bin\Debug\net6.0\5주차.pdb
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior_1\윈도우즈프로그래밍\5주차\5주차\obj\Debug\net6.0\5주차.csproj.AssemblyReference.cache
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior_1\윈도우즈프로그래밍\5주차\5주차\obj\Debug\net6.0\5주차.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior_1\윈도우즈프로그래밍\5주차\5주차\obj\Debug\net6.0\5주차.AssemblyInfoInputs.cache
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior_1\윈도우즈프로그래밍\5주차\5주차\obj\Debug\net6.0\5주차.AssemblyInfo.cs
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior_1\윈도우즈프로그래밍\5주차\5주차\obj\Debug\net6.0\5주차.csproj.CoreCompileInputs.cache
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior_1\윈도우즈프로그래밍\5주차\5주차\obj\Debug\net6.0\5주차.dll
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior_1\윈도우즈프로그래밍\5주차\5주차\obj\Debug\net6.0\refint\5주차.dll
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior_1\윈도우즈프로그래밍\5주차\5주차\obj\Debug\net6.0\5주차.pdb
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior_1\윈도우즈프로그래밍\5주차\5주차\obj\Debug\net6.0\5주차.genruntimeconfig.cache
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior_1\윈도우즈프로그래밍\5주차\5주차\obj\Debug\net6.0\ref\5주차.dll
