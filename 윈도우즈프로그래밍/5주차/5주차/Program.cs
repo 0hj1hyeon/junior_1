@@ -1,17 +1,21 @@
 ﻿using System.Globalization;
-int a = 0;
-for (int i = 1; i<10; i += a){
-    
-    for (int k = 1; k <= 9 ;k++) {
-        for (int j=i; j<=i+a;j++) {
-            Console.Write(j+"*"+k+"="+j*k+" ");
-        }
-        Console.WriteLine();
-    }
+Double ans = 0;
 
-    a += 1;
-    
+Double[] a = new Double[5] { 2,4,6,8,10 };
+
+for (int i = 0; i <= 4; i++)
+{
+
+    Double q = 1 /a[i];
+    Console.WriteLine(1 + " / " + a[i]  + " = " + q);
+    if (i % 2 == 0)
+    {
+        q = -1 * q;
+    }
+    ans += q;
 }
+Console.WriteLine("-----------------------");
+Console.WriteLine("답: " + ans);
 
 
 
@@ -52,20 +56,33 @@ class n1
 class n2_1{
     /*
    int ans = 0;
-for (int i = 9; i>=1;i-=2) {
-    int b = 1;
-    for (int j = 1; j <= i; j += 2) {
-        Console.Write(j);
-        if (j != i) {
-            Console.Write("*");
+int[] b = new int[5] { 9, 7, 5, 3, 1 };
+ 
+for (int i = 0; i <= 4; i++)
+{
+    int a = 1;
+    
+    for (int j = 0; j <= 4; j ++)
+    {
+        if (j >= i)
+        {
+
+            Console.Write(b[j]);
+            a *= b[j];
+            if (j != 4)
+            {
+                Console.Write("*");
+            }
         }
-        b *= j;
+        
+       
+        
     }
-    Console.Write(" "+b);
-    ans += b;
+    Console.Write(" " + a);
+    ans += a;
     Console.WriteLine("");
 }
-Console.Write("답: "+ans);
+Console.Write("답: " + ans);
      */
 }
 
@@ -143,4 +160,22 @@ for (int j = 1; j <= 4; j++)
     Console.WriteLine();
 
 }*/
+}
+
+class n5 {
+    /* 
+     * int a = 0;
+for (int i = 1; i<10; i += a){
+    
+    for (int k = 1; k <= 9 ;k++) {
+        for (int j=i; j<=i+a;j++) {
+            Console.Write(j+"*"+k+"="+j*k+" ");
+        }
+        Console.WriteLine();
+    }
+
+    a += 1;
+    
+}
+     */
 }
