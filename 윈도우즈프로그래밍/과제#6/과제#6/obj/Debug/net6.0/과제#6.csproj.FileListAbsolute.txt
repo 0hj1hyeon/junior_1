@@ -1,0 +1,15 @@
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior_1\윈도우즈프로그래밍\과제#6\과제#6\bin\Debug\net6.0\과제#6.exe
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior_1\윈도우즈프로그래밍\과제#6\과제#6\bin\Debug\net6.0\과제#6.deps.json
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior_1\윈도우즈프로그래밍\과제#6\과제#6\bin\Debug\net6.0\과제#6.runtimeconfig.json
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior_1\윈도우즈프로그래밍\과제#6\과제#6\bin\Debug\net6.0\과제#6.dll
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior_1\윈도우즈프로그래밍\과제#6\과제#6\bin\Debug\net6.0\과제#6.pdb
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior_1\윈도우즈프로그래밍\과제#6\과제#6\obj\Debug\net6.0\과제#6.csproj.AssemblyReference.cache
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior_1\윈도우즈프로그래밍\과제#6\과제#6\obj\Debug\net6.0\과제#6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior_1\윈도우즈프로그래밍\과제#6\과제#6\obj\Debug\net6.0\과제#6.AssemblyInfoInputs.cache
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior_1\윈도우즈프로그래밍\과제#6\과제#6\obj\Debug\net6.0\과제#6.AssemblyInfo.cs
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior_1\윈도우즈프로그래밍\과제#6\과제#6\obj\Debug\net6.0\과제#6.csproj.CoreCompileInputs.cache
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior_1\윈도우즈프로그래밍\과제#6\과제#6\obj\Debug\net6.0\과제#6.dll
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior_1\윈도우즈프로그래밍\과제#6\과제#6\obj\Debug\net6.0\refint\과제#6.dll
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior_1\윈도우즈프로그래밍\과제#6\과제#6\obj\Debug\net6.0\과제#6.pdb
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior_1\윈도우즈프로그래밍\과제#6\과제#6\obj\Debug\net6.0\과제#6.genruntimeconfig.cache
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior_1\윈도우즈프로그래밍\과제#6\과제#6\obj\Debug\net6.0\ref\과제#6.dll
