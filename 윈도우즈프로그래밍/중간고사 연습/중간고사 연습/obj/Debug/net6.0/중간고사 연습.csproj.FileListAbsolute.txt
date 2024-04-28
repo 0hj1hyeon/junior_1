@@ -1,0 +1,15 @@
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior_1\윈도우즈프로그래밍\중간고사 연습\중간고사 연습\bin\Debug\net6.0\중간고사 연습.exe
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior_1\윈도우즈프로그래밍\중간고사 연습\중간고사 연습\bin\Debug\net6.0\중간고사 연습.deps.json
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior_1\윈도우즈프로그래밍\중간고사 연습\중간고사 연습\bin\Debug\net6.0\중간고사 연습.runtimeconfig.json
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior_1\윈도우즈프로그래밍\중간고사 연습\중간고사 연습\bin\Debug\net6.0\중간고사 연습.dll
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior_1\윈도우즈프로그래밍\중간고사 연습\중간고사 연습\bin\Debug\net6.0\중간고사 연습.pdb
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior_1\윈도우즈프로그래밍\중간고사 연습\중간고사 연습\obj\Debug\net6.0\중간고사 연습.csproj.AssemblyReference.cache
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior_1\윈도우즈프로그래밍\중간고사 연습\중간고사 연습\obj\Debug\net6.0\중간고사 연습.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior_1\윈도우즈프로그래밍\중간고사 연습\중간고사 연습\obj\Debug\net6.0\중간고사 연습.AssemblyInfoInputs.cache
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior_1\윈도우즈프로그래밍\중간고사 연습\중간고사 연습\obj\Debug\net6.0\중간고사 연습.AssemblyInfo.cs
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior_1\윈도우즈프로그래밍\중간고사 연습\중간고사 연습\obj\Debug\net6.0\중간고사 연습.csproj.CoreCompileInputs.cache
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior_1\윈도우즈프로그래밍\중간고사 연습\중간고사 연습\obj\Debug\net6.0\중간고사 연습.dll
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior_1\윈도우즈프로그래밍\중간고사 연습\중간고사 연습\obj\Debug\net6.0\refint\중간고사 연습.dll
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior_1\윈도우즈프로그래밍\중간고사 연습\중간고사 연습\obj\Debug\net6.0\중간고사 연습.pdb
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior_1\윈도우즈프로그래밍\중간고사 연습\중간고사 연습\obj\Debug\net6.0\중간고사 연습.genruntimeconfig.cache
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior_1\윈도우즈프로그래밍\중간고사 연습\중간고사 연습\obj\Debug\net6.0\ref\중간고사 연습.dll

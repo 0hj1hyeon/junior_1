@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "중간고사 연습/1.0.0": {
+        "runtime": {
+          "중간고사 연습.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "중간고사 연습/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
