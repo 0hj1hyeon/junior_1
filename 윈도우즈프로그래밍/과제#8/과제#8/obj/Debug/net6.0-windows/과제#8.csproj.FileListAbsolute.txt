@@ -1,0 +1,17 @@
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior_1\운영체제\과제#8\과제#8\bin\Debug\net6.0-windows\과제#8.exe
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior_1\운영체제\과제#8\과제#8\bin\Debug\net6.0-windows\과제#8.deps.json
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior_1\운영체제\과제#8\과제#8\bin\Debug\net6.0-windows\과제#8.runtimeconfig.json
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior_1\운영체제\과제#8\과제#8\bin\Debug\net6.0-windows\과제#8.dll
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior_1\운영체제\과제#8\과제#8\bin\Debug\net6.0-windows\과제#8.pdb
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior_1\운영체제\과제#8\과제#8\obj\Debug\net6.0-windows\과제#8.csproj.AssemblyReference.cache
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior_1\운영체제\과제#8\과제#8\obj\Debug\net6.0-windows\과제#8.csproj.GenerateResource.cache
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior_1\운영체제\과제#8\과제#8\obj\Debug\net6.0-windows\과제#8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior_1\운영체제\과제#8\과제#8\obj\Debug\net6.0-windows\과제#8.AssemblyInfoInputs.cache
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior_1\운영체제\과제#8\과제#8\obj\Debug\net6.0-windows\과제#8.AssemblyInfo.cs
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior_1\운영체제\과제#8\과제#8\obj\Debug\net6.0-windows\과제#8.csproj.CoreCompileInputs.cache
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior_1\운영체제\과제#8\과제#8\obj\Debug\net6.0-windows\과제#8.dll
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior_1\운영체제\과제#8\과제#8\obj\Debug\net6.0-windows\refint\과제#8.dll
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior_1\운영체제\과제#8\과제#8\obj\Debug\net6.0-windows\과제#8.pdb
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior_1\운영체제\과제#8\과제#8\obj\Debug\net6.0-windows\과제#8.genruntimeconfig.cache
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior_1\운영체제\과제#8\과제#8\obj\Debug\net6.0-windows\ref\과제#8.dll
+C:\Users\ohj01\OneDrive\바탕 화면\github\junior_1\운영체제\과제#8\과제#8\obj\Debug\net6.0-windows\과제_8.pn1.resources
