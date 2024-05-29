@@ -15,7 +15,7 @@ namespace 과제_10_2
         //소스 코드 추가
         private System.Windows.Forms.Timer myTimer = new System.Windows.Forms.Timer();
 
-      
+
 
         private DateTime dDay;
         private DateTime tTime;
@@ -34,13 +34,23 @@ namespace 과제_10_2
             tabControl1.SelectedTab = tabPage2;
         }
 
-        private void MyTimer_Tick(object sender, EventArgs e) { 
+        private void MyTimer_Tick(object sender, EventArgs e)
+        {
             DateTime cTime = DateTime.Now;
             label5.Text = cTime.ToShortDateString();
             label6.Text = cTime.ToLongTimeString();
 
-            if (setAlarm == true) { 
-                if(dDay ==)
+            if (setAlarm == true)
+            {
+                if (dDay == DateTime.Today &&
+                    cTime.Hour == tTime.Hour &&
+                    cTime.Minute == tTime.Minute)
+                {
+                    setAlarm = false;
+                    MessageBox.Show("알람 시각을 알려줍니다!", "알람 통보",
+                        MessageBoxButtons.YesNoCancel,
+                        MessageBoxIcon.Information);
+                }
             }
         }
 
@@ -57,6 +67,18 @@ namespace 과제_10_2
         private void label5_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            dDay = DateTime.Parse(dateTimePicker1.Text);
+            tTime = DateTime.Parse(dateTimePicker2.Text);
+
+            setAlarm = true;
+            label3.ForeColor = Color.Red;
+            label4.ForeColor = Color.Blue;
+            label4.Text = "Alarm: " + dDay.ToShortDateString() + " " + tTime.ToLongTimeString();
+            tabControl1.SelectedTab = tabPage2;
         }
     }
 }
